@@ -1,4 +1,4 @@
-# stories_2000
+# stories_10000
 Stories around 10000 letters (in Japanese)
 
 ### ここにあるもの
